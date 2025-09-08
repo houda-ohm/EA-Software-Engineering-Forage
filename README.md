@@ -1,4 +1,4 @@
-## 📌 Tasks Overview
+##  Tasks Overview
 
 ###  Task One: Feature Proposal
 - **Deliverable:** [EA_College_Football_Crowd_Momentum.pdf](Task-1/EA_College_Football_Crowd_Momentum.pdf)  
