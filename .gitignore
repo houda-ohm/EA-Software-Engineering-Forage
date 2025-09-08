@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
